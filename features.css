@@ -1,0 +1,73 @@
+body{
+  background-position: center;
+  background-size: cover;
+}
+
+.topnav {
+	overflow: hidden;
+	background-color: #333;
+	position:sticky;
+	top: 0;
+    width: 100%;
+  }
+  
+  .topnav h3 {
+	float: left;
+	color: #f2f2f2;
+	font-family: cursive;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+    margin-left: 20px;
+  }
+  
+  .topnav h3:hover {
+	background-color: #bbb;
+	color: black;
+    cursor: pointer;
+  }
+
+  cccccccccccc
+  #storage_godown{
+    float: left;
+    text-align: justify;  
+    margin-top: 40px;
+      text-align: center;
+    background-color: lightskyblue;
+    border-radius: 60px;
+      color:black;
+position:sticky;
+
+    }
+
+  #storage_godown img{
+      height: 200px;
+      border-radius: 50px;
+  }
+
+  #aliencis {
+        float: left;
+    text-align: justify;  
+    margin-top: 40px;
+      text-align: center;
+    background-color: lightskyblue;
+    border-radius: 60px;
+      color:black;
+position:sticky;
+
+    }
+
+   #aliencis img{
+      height: 200px;
+      border-radius: 50px;
+  }
+
+  .copy_right_footer{
+    bottom: 0; 
+  margin-top: 30px;
+  color: black;
+     text-align: center; 
+     font-style: italic;
+     width: 100%;
+}

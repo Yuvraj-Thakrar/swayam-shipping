@@ -1,0 +1,78 @@
+body{
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+.topnav {
+	overflow: hidden;
+	background-color: #333;
+	position:sticky;
+	top: 0;
+    width: 100%;
+  }
+  
+  .topnav h3 {
+	float: left;
+	color: #f2f2f2;
+	font-family: cursive;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+    margin-left: 20px;
+  }
+  
+  .topnav h3:hover {
+	background-color: #bbb;
+	color: black;
+    cursor: pointer;
+  }
+
+  .heading{
+      background-color: white;
+    width: 50%;
+    border-radius: 70px;
+  }
+#logo{
+    border-radius: 50px;
+    margin-left: 30px;
+    height: 150px;
+}
+.heading h3{
+    font-style: oblique;
+}
+#companies{
+    background-color: whitesmoke;
+    width: 70%;
+    height: 280px;
+    text-align: center;
+}
+#companies h3{
+    color: black;
+    font-variant:small-caps;
+    font-style: oblique;
+}
+
+.keyfeatures{
+  background-color: black;
+  width: 70%;
+  height: 230px;
+  text-align: center;
+}
+.keyfeatures h3{
+  color:white;
+  font-variant:small-caps;
+  font-style: oblique;
+  margin-top: 20px;
+}
+
+.copy_right_footer{
+  bottom: 0;
+color: black;
+   text-align: center; 
+   font-style: italic;
+   width: 100%;
+   background-color: red;
+   height: 30px;
+}
